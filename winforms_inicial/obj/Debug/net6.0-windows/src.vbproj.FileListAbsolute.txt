@@ -1,0 +1,17 @@
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\src.exe
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\src.deps.json
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\src.runtimeconfig.json
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\src.dll
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\src.pdb
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.vbproj.AssemblyReference.cache
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.Form1.resources
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.vbproj.GenerateResource.cache
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.AssemblyInfoInputs.cache
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.AssemblyInfo.vb
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.vbproj.CoreCompileInputs.cache
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.dll
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\refint\src.dll
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.pdb
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\src.genruntimeconfig.cache
+C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\ref\src.dll

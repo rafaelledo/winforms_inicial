@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj",
-      "projectName": "Primeiro Projeto",
-      "projectPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj",
+      "projectUniqueName": "C:\\Users\\rafae\\projetos\\winforms_inicial\\CriandoVariaveis\\CriandoVariaveis.vbproj",
+      "projectName": "CriandoVariaveis",
+      "projectPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\CriandoVariaveis\\CriandoVariaveis.vbproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
