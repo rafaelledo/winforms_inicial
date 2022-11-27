@@ -1,0 +1,17 @@
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.vbproj.AssemblyReference.cache
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.vbproj.GenerateResource.cache
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.AssemblyInfoInputs.cache
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.AssemblyInfo.vb
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.vbproj.CoreCompileInputs.cache
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\bin\Debug\net6.0-windows\p3_ManipulandoTextos.exe
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\bin\Debug\net6.0-windows\p3_ManipulandoTextos.deps.json
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\bin\Debug\net6.0-windows\p3_ManipulandoTextos.runtimeconfig.json
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\bin\Debug\net6.0-windows\p3_ManipulandoTextos.dll
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\bin\Debug\net6.0-windows\p3_ManipulandoTextos.pdb
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.dll
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\refint\p3_ManipulandoTextos.dll
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.pdb
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.genruntimeconfig.cache
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\ref\p3_ManipulandoTextos.dll
+D:\projetos\winforms_inicial\p3_ManipulandoTextos\obj\Debug\net6.0-windows\p3_ManipulandoTextos.Frm_TelaPrincipal_03.resources
