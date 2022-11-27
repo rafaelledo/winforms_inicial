@@ -1,0 +1,7 @@
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\PrimeiroProjeto_1.vbproj.AssemblyReference.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\PrimeiroProjeto_1.Frm_TelaPrincipal.resources
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\PrimeiroProjeto_1.vbproj.GenerateResource.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\PrimeiroProjeto_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\PrimeiroProjeto_1.AssemblyInfoInputs.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\PrimeiroProjeto_1.AssemblyInfo.vb
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\PrimeiroProjeto_1.vbproj.CoreCompileInputs.cache

@@ -15,3 +15,20 @@ C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windo
 C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.genruntimeconfig.cache
 C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\ref\Primeiro Projeto.dll
 C:\Users\rafae\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro_Projeto.Frm_TelaPrincipal.resources
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\Primeiro Projeto.exe
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\Primeiro Projeto.deps.json
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\Primeiro Projeto.runtimeconfig.json
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\Primeiro Projeto.dll
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\Primeiro Projeto.pdb
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.vbproj.AssemblyReference.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro_Projeto.Frm_TelaPrincipal.resources
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.vbproj.GenerateResource.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.AssemblyInfoInputs.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.AssemblyInfo.vb
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.vbproj.CoreCompileInputs.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.dll
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\refint\Primeiro Projeto.dll
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.pdb
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\Primeiro Projeto.genruntimeconfig.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\ref\Primeiro Projeto.dll

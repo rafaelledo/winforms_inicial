@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\projetos\\winforms_inicial\\CriandoVariaveis\\CriandoVariaveis.vbproj",
-      "projectName": "CriandoVariaveis",
-      "projectPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\CriandoVariaveis\\CriandoVariaveis.vbproj",
+      "projectUniqueName": "D:\\projetos\\winforms_inicial\\CriandoVariaveis\\p2_CriandoVariaveis.vbproj",
+      "projectName": "p2_CriandoVariaveis",
+      "projectPath": "D:\\projetos\\winforms_inicial\\CriandoVariaveis\\p2_CriandoVariaveis.vbproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\CriandoVariaveis\\obj\\",
+      "outputPath": "D:\\projetos\\winforms_inicial\\CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,8 @@
         "net6.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {

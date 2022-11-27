@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p2_CriandoVariaveis/1.0.0": {
+        "runtime": {
+          "p2_CriandoVariaveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p2_CriandoVariaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

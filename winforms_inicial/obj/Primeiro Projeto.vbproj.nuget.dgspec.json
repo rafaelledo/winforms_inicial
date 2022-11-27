@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj": {}
+    "D:\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj": {
+    "D:\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj",
+        "projectUniqueName": "D:\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj",
         "projectName": "Primeiro Projeto",
-        "projectPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj",
+        "projectPath": "D:\\projetos\\winforms_inicial\\winforms_inicial\\Primeiro Projeto.vbproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\projetos\\winforms_inicial\\winforms_inicial\\obj\\",
+        "outputPath": "D:\\projetos\\winforms_inicial\\winforms_inicial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {

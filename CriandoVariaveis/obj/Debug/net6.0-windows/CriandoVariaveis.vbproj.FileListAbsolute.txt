@@ -1,0 +1,17 @@
+D:\projetos\winforms_inicial\CriandoVariaveis\bin\Debug\net6.0-windows\CriandoVariaveis.exe
+D:\projetos\winforms_inicial\CriandoVariaveis\bin\Debug\net6.0-windows\CriandoVariaveis.deps.json
+D:\projetos\winforms_inicial\CriandoVariaveis\bin\Debug\net6.0-windows\CriandoVariaveis.runtimeconfig.json
+D:\projetos\winforms_inicial\CriandoVariaveis\bin\Debug\net6.0-windows\CriandoVariaveis.dll
+D:\projetos\winforms_inicial\CriandoVariaveis\bin\Debug\net6.0-windows\CriandoVariaveis.pdb
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.vbproj.AssemblyReference.cache
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.vbproj.GenerateResource.cache
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.AssemblyInfoInputs.cache
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.AssemblyInfo.vb
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.vbproj.CoreCompileInputs.cache
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.dll
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\refint\CriandoVariaveis.dll
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.pdb
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.genruntimeconfig.cache
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\ref\CriandoVariaveis.dll
+D:\projetos\winforms_inicial\CriandoVariaveis\obj\Debug\net6.0-windows\CriandoVariaveis.Frm_TelaPrincipal.resources
