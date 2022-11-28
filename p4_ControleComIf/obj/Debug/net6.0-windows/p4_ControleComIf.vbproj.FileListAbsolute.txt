@@ -1,0 +1,17 @@
+D:\projetos\winforms_inicial\p4_ControleComIf\bin\Debug\net6.0-windows\p4_ControleComIf.exe
+D:\projetos\winforms_inicial\p4_ControleComIf\bin\Debug\net6.0-windows\p4_ControleComIf.deps.json
+D:\projetos\winforms_inicial\p4_ControleComIf\bin\Debug\net6.0-windows\p4_ControleComIf.runtimeconfig.json
+D:\projetos\winforms_inicial\p4_ControleComIf\bin\Debug\net6.0-windows\p4_ControleComIf.dll
+D:\projetos\winforms_inicial\p4_ControleComIf\bin\Debug\net6.0-windows\p4_ControleComIf.pdb
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.vbproj.AssemblyReference.cache
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.Form1.resources
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.vbproj.GenerateResource.cache
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.AssemblyInfoInputs.cache
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.AssemblyInfo.vb
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.vbproj.CoreCompileInputs.cache
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.dll
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\refint\p4_ControleComIf.dll
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.pdb
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\p4_ControleComIf.genruntimeconfig.cache
+D:\projetos\winforms_inicial\p4_ControleComIf\obj\Debug\net6.0-windows\ref\p4_ControleComIf.dll
