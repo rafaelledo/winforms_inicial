@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Frm_LacosRepeticao
     Public Sub New()
 
         ' This call is required by the designer.

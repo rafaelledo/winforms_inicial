@@ -1,0 +1,185 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "p1_PrimeiroProjeto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/p1_PrimeiroProjeto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/p1_PrimeiroProjeto.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "p2_CriandoVariaveis/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/p2_CriandoVariaveis.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/p2_CriandoVariaveis.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "p3_ManipulandoTextos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/p3_ManipulandoTextos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/p3_ManipulandoTextos.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "p4_ControleComIf/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/p4_ControleComIf.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/p4_ControleComIf.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "p5_ControleComLacos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/p5_ControleComLacos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/p5_ControleComLacos.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "p1_PrimeiroProjeto/1.0.0": {
+      "type": "project",
+      "path": "../winforms_inicial/p1_PrimeiroProjeto.vbproj",
+      "msbuildProject": "../winforms_inicial/p1_PrimeiroProjeto.vbproj"
+    },
+    "p2_CriandoVariaveis/1.0.0": {
+      "type": "project",
+      "path": "../CriandoVariaveis/p2_CriandoVariaveis.vbproj",
+      "msbuildProject": "../CriandoVariaveis/p2_CriandoVariaveis.vbproj"
+    },
+    "p3_ManipulandoTextos/1.0.0": {
+      "type": "project",
+      "path": "../p3_ManipulandoTextos/p3_ManipulandoTextos.vbproj",
+      "msbuildProject": "../p3_ManipulandoTextos/p3_ManipulandoTextos.vbproj"
+    },
+    "p4_ControleComIf/1.0.0": {
+      "type": "project",
+      "path": "../p4_ControleComIf/p4_ControleComIf.vbproj",
+      "msbuildProject": "../p4_ControleComIf/p4_ControleComIf.vbproj"
+    },
+    "p5_ControleComLacos/1.0.0": {
+      "type": "project",
+      "path": "../p5_ControleComLacos/p5_ControleComLacos.vbproj",
+      "msbuildProject": "../p5_ControleComLacos/p5_ControleComLacos.vbproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "p1_PrimeiroProjeto >= 1.0.0",
+      "p2_CriandoVariaveis >= 1.0.0",
+      "p3_ManipulandoTextos >= 1.0.0",
+      "p4_ControleComIf >= 1.0.0",
+      "p5_ControleComLacos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\projetos\\winforms_inicial\\p0_ProjetoPrincipal\\p0_ProjetoPrincipal.vbproj",
+      "projectName": "p0_ProjetoPrincipal",
+      "projectPath": "D:\\projetos\\winforms_inicial\\p0_ProjetoPrincipal\\p0_ProjetoPrincipal.vbproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "D:\\projetos\\winforms_inicial\\p0_ProjetoPrincipal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "D:\\projetos\\winforms_inicial\\CriandoVariaveis\\p2_CriandoVariaveis.vbproj": {
+              "projectPath": "D:\\projetos\\winforms_inicial\\CriandoVariaveis\\p2_CriandoVariaveis.vbproj"
+            },
+            "D:\\projetos\\winforms_inicial\\p3_ManipulandoTextos\\p3_ManipulandoTextos.vbproj": {
+              "projectPath": "D:\\projetos\\winforms_inicial\\p3_ManipulandoTextos\\p3_ManipulandoTextos.vbproj"
+            },
+            "D:\\projetos\\winforms_inicial\\p4_ControleComIf\\p4_ControleComIf.vbproj": {
+              "projectPath": "D:\\projetos\\winforms_inicial\\p4_ControleComIf\\p4_ControleComIf.vbproj"
+            },
+            "D:\\projetos\\winforms_inicial\\p5_ControleComLacos\\p5_ControleComLacos.vbproj": {
+              "projectPath": "D:\\projetos\\winforms_inicial\\p5_ControleComLacos\\p5_ControleComLacos.vbproj"
+            },
+            "D:\\projetos\\winforms_inicial\\winforms_inicial\\p1_PrimeiroProjeto.vbproj": {
+              "projectPath": "D:\\projetos\\winforms_inicial\\winforms_inicial\\p1_PrimeiroProjeto.vbproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

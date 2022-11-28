@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p0_ProjetoPrincipal/1.0.0": {
+        "dependencies": {
+          "p1_PrimeiroProjeto": "1.0.0",
+          "p2_CriandoVariaveis": "1.0.0",
+          "p3_ManipulandoTextos": "1.0.0",
+          "p4_ControleComIf": "1.0.0",
+          "p5_ControleComLacos": "1.0.0"
+        },
+        "runtime": {
+          "p0_ProjetoPrincipal.dll": {}
+        }
+      },
+      "p1_PrimeiroProjeto/1.0.0": {
+        "runtime": {
+          "p1_PrimeiroProjeto.dll": {}
+        }
+      },
+      "p2_CriandoVariaveis/1.0.0": {
+        "runtime": {
+          "p2_CriandoVariaveis.dll": {}
+        }
+      },
+      "p3_ManipulandoTextos/1.0.0": {
+        "runtime": {
+          "p3_ManipulandoTextos.dll": {}
+        }
+      },
+      "p4_ControleComIf/1.0.0": {
+        "runtime": {
+          "p4_ControleComIf.dll": {}
+        }
+      },
+      "p5_ControleComLacos/1.0.0": {
+        "runtime": {
+          "p5_ControleComLacos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p0_ProjetoPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "p1_PrimeiroProjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "p2_CriandoVariaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "p3_ManipulandoTextos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "p4_ControleComIf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "p5_ControleComLacos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

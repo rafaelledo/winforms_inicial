@@ -4,7 +4,6 @@ D:\projetos\winforms_inicial\p5_ControleComLacos\bin\Debug\net6.0-windows\p5_Con
 D:\projetos\winforms_inicial\p5_ControleComLacos\bin\Debug\net6.0-windows\p5_ControleComLacos.dll
 D:\projetos\winforms_inicial\p5_ControleComLacos\bin\Debug\net6.0-windows\p5_ControleComLacos.pdb
 D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.vbproj.AssemblyReference.cache
-D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.Form1.resources
 D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.vbproj.GenerateResource.cache
 D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.GeneratedMSBuildEditorConfig.editorconfig
 D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\refint
 D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.pdb
 D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.genruntimeconfig.cache
 D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\ref\p5_ControleComLacos.dll
+D:\projetos\winforms_inicial\p5_ControleComLacos\obj\Debug\net6.0-windows\p5_ControleComLacos.Frm_LacosRepeticao.resources

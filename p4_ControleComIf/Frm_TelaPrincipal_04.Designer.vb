@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class Form1
+Partial Class Frm_ControleFluxo
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -29,8 +29,8 @@ Partial Class Form1
         Me.Txt_Resultado = New System.Windows.Forms.TextBox()
         Me.Lbl_Resultado = New System.Windows.Forms.Label()
         Me.Gb_Acompanhada = New System.Windows.Forms.GroupBox()
-        Me.Rb_Sim = New System.Windows.Forms.RadioButton()
         Me.Rb_Nao = New System.Windows.Forms.RadioButton()
+        Me.Rb_Sim = New System.Windows.Forms.RadioButton()
         Me.Gb_Acompanhada.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -96,17 +96,6 @@ Partial Class Form1
         Me.Gb_Acompanhada.TabStop = False
         Me.Gb_Acompanhada.Text = "Está acompanhada dos pais?"
         '
-        'Rb_Sim
-        '
-        Me.Rb_Sim.AutoSize = True
-        Me.Rb_Sim.Location = New System.Drawing.Point(35, 22)
-        Me.Rb_Sim.Name = "Rb_Sim"
-        Me.Rb_Sim.Size = New System.Drawing.Size(45, 19)
-        Me.Rb_Sim.TabIndex = 0
-        Me.Rb_Sim.TabStop = True
-        Me.Rb_Sim.Text = "Sim"
-        Me.Rb_Sim.UseVisualStyleBackColor = True
-        '
         'Rb_Nao
         '
         Me.Rb_Nao.AutoSize = True
@@ -118,7 +107,18 @@ Partial Class Form1
         Me.Rb_Nao.Text = "Não"
         Me.Rb_Nao.UseVisualStyleBackColor = True
         '
-        'Form1
+        'Rb_Sim
+        '
+        Me.Rb_Sim.AutoSize = True
+        Me.Rb_Sim.Location = New System.Drawing.Point(35, 22)
+        Me.Rb_Sim.Name = "Rb_Sim"
+        Me.Rb_Sim.Size = New System.Drawing.Size(45, 19)
+        Me.Rb_Sim.TabIndex = 0
+        Me.Rb_Sim.TabStop = True
+        Me.Rb_Sim.Text = "Sim"
+        Me.Rb_Sim.UseVisualStyleBackColor = True
+        '
+        'Frm_ControleFluxo
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -131,7 +131,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Lbl_NomeProjeto)
         Me.Controls.Add(Me.Btn_Principal)
         Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.Name = "Form1"
+        Me.Name = "Frm_ControleFluxo"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Controle de Fluxo com If"
         Me.Gb_Acompanhada.ResumeLayout(False)

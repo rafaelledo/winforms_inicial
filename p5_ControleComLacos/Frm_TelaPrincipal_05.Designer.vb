@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class Form1
+Partial Class Frm_LacosRepeticao
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -100,7 +100,7 @@ Partial Class Form1
         Me.Lbl_Periodos.TabIndex = 6
         Me.Lbl_Periodos.Text = "Períodos"
         '
-        'Form1
+        'Frm_LacosRepeticao
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -114,7 +114,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Lbl_NomeProjeto)
         Me.Controls.Add(Me.Btn_Principal)
         Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.Name = "Form1"
+        Me.Name = "Frm_LacosRepeticao"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Laços de Repetição"
         Me.ResumeLayout(False)

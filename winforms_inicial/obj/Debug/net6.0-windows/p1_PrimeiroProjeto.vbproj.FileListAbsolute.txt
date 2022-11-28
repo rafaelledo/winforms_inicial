@@ -1,0 +1,17 @@
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.vbproj.AssemblyReference.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.Frm_TelaPrincipal_01.resources
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.vbproj.GenerateResource.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.AssemblyInfo.vb
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.vbproj.CoreCompileInputs.cache
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\p1_PrimeiroProjeto.exe
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\p1_PrimeiroProjeto.deps.json
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\p1_PrimeiroProjeto.runtimeconfig.json
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\p1_PrimeiroProjeto.dll
+D:\projetos\winforms_inicial\winforms_inicial\bin\Debug\net6.0-windows\p1_PrimeiroProjeto.pdb
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.dll
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\refint\p1_PrimeiroProjeto.dll
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.pdb
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\p1_PrimeiroProjeto.genruntimeconfig.cache
+D:\projetos\winforms_inicial\winforms_inicial\obj\Debug\net6.0-windows\ref\p1_PrimeiroProjeto.dll
