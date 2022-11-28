@@ -14,10 +14,15 @@
         Dim periodos As Integer = Val(Txt_Periodos.Text)
         Dim contador As Integer = 1
 
-        While (contador <= periodos)
+        For i As Integer = 1 To periodos
             investimento += investimento * rendimento
-            contador += 1
-        End While
+        Next
+
+
+        'While (contador <= periodos)
+        '    investimento += investimento * rendimento
+        '    contador += 1
+        'End While
 
 
         MsgBox("O saldo do investimento após " + periodos.ToString + " meses é " + investimento.ToString)
