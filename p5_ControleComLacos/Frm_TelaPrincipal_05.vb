@@ -16,6 +16,8 @@
 
         For i As Integer = 1 To periodos
             investimento += investimento * rendimento
+            'Exit For < palvra reservada para sair do loop
+            'Continue For < palavra reservada para pular a execução
         Next
 
 
